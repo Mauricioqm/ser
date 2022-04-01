@@ -1,0 +1,7 @@
+{ 
+  "/api/*": {
+      "target": "https://api.siriodev.com/",
+      "secure": false,
+      "loglevel": "debug"
+  }
+}
